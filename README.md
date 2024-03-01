@@ -39,16 +39,20 @@
 
 <h3>👨‍💻 Programming and Markup Languages </h3>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white&color=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=795dd8)
+![React](https://img.shields.io/badge/React-%23326f80?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&color=yellow)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <h3>🧰 Frameworks and Libraries </h3>
 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![tailwindcss](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 <h3>🗄 Databases and Cloud Hosting </h3>
 
@@ -57,8 +61,7 @@
 
 <h3>🧠 Learning </h3>
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white&color=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=795dd8)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300427e?style=for-the-badge&logo=cplusplus)
 
 <h3>💻 Software and Tools</h3>
 
